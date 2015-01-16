@@ -7,6 +7,7 @@ func main() {
 	err = "t ";
 	if err     != nil {
 fmt.Println("test")
+
 	}
 
 }
