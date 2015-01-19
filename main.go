@@ -3,18 +3,10 @@ package main
 type Test struct {
 }
 
-func main() {t
-t
-t
+func main() {
 	err = "t ";
 	if err     != nil {
 fmt.Println("test")
-
-
-t
-
-
-
 	}
 
 }
